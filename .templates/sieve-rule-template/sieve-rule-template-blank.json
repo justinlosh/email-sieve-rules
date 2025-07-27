@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "domain": "",
+  "friendly_name": "",
+  "email_criteria": [
+    {
+      "field": "from",
+      "contains": "",
+      "action": "fileinto",
+      "folder": ""
+    }
+  ]
+}

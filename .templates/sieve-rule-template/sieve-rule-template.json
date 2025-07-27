@@ -1,0 +1,25 @@
+{
+    "name": "",
+    "domain": "",
+    "friendly_name": "",
+    "description": "",
+    "enabled": true,
+    "priority": 1,
+    "tags": [],
+    "created_at": "",
+    "updated_at": "",
+    "criteria_type": "all",
+    "email_criteria": [
+        {
+            "field": "from",
+            "contains": "",
+            "actions": [
+                {
+                    "action": "fileinto",
+                    "folder": ""
+                }
+            ]
+        }
+    ],
+    "test_emails": []
+}
