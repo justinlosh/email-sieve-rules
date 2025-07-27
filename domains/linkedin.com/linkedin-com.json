@@ -1,8 +1,8 @@
 {
-    "name": "",
-    "category": "",
-    "domain": "",
-    "friendly_name": "",
+    "name": "Domain Email List",
+    "category": "Social Media",
+    "domain": "linkedin.com",
+    "friendly_name": "LinkedIn",
     "email_criteria": [
         {
             "field": "",
