@@ -1,4 +1,5 @@
-_The following provides a reference point of domains (TLD) utilized by various providers._
+# Index List
+_The following provides a reference point of domains (TLD) and email addresses utilized by various services (websites) providers._
 
 ***
 
@@ -9,3 +10,4 @@ _The following provides a reference point of domains (TLD) utilized by various p
 - [linkedin.com](linkedin.com/)
 - [tiktok.com](tiktok.com/)
 - [x.com](x.com/)
+- [youtube.com](x.com/)
