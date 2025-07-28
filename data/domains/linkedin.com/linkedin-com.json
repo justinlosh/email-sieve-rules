@@ -1,0 +1,86 @@
+{
+    "name": "Domain Email List",
+    "category": "Social Media",
+    "domain": "linkedin.com",
+    "friendly_name": "LinkedIn",
+    "email_criteria": [
+        {
+            "field": "from",
+            "contains": "marketing@linkedin.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "info@linkedin.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "news@linkedin.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "noreply@linkedin.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "community@linkedin.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "sales-solutions@linkedin.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "learning@linkedin.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "jobs-noreply@linkedin.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "business@linkedin.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "outreach@linkedin.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "events@linkedin.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "offers@linkedin.com",
+            "action": "",
+            "folder": ""
+        },
+                {
+                    "field": "from",
+                    "contains": "hit-reply@linkedin.com",
+                    "action": "",
+                    "folder": ""
+                }
+            ]
+        }

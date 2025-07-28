@@ -1,0 +1,218 @@
+{
+    "name": "Domain Email List",
+    "category": "Social Media",
+    "domain": "youtube.com",
+    "friendly_name": "YouTube",
+    "email_criteria": [
+        {
+            "field": "from",
+            "contains": "noreply@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "no-reply@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "support@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "help@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "service@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "team@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "notifications@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "notification@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "accounts@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "account-recovery@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "security@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "privacy@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "abuse@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "copyright@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "legal@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "press@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "ads@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "adwords-noreply@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "creators@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "partners@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "newsletter@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "updates@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "billing@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "sales@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "info@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "contact@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "feedback@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "community@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "customercare@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "customerservice@youtube.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "noreply@youtube-noc.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "noreply@youtube-noreply.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "noreply@google.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "no-reply@google.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "support@google.com",
+            "action": "",
+            "folder": ""
+        }
+    ]
+}

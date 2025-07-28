@@ -1,0 +1,98 @@
+{
+    "name": "Domain Email List",
+    "category": "Social Media",
+    "domain": "tiktok.com",
+    "friendly_name": "TikTok",
+    "email_criteria": [
+        {
+            "field": "from",
+            "contains": "no-reply@tiktok.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "support@tiktok.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "info@tiktok.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "notification@tiktok.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "service@tiktok.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "security@tiktok.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "help@tiktok.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "feedback@tiktok.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "noreply@tiktok.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "team@tiktok.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "privacy@tiktok.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "account@tiktok.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "verify@tiktok.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "update@tiktok.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "contact@tiktok.com",
+            "action": "",
+            "folder": ""
+        }
+    ]
+}

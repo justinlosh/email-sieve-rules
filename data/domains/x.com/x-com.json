@@ -1,0 +1,128 @@
+{
+    "name": "Domain Email List",
+    "category": "Social Media",
+    "domain": "x.com",
+    "friendly_name": "X (Twitter)",
+    "email_criteria": [
+        {
+            "field": "from",
+            "contains": "support@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "info@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "contact@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "help@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "service@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "care@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "feedback@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "no-reply@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "noreply@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "newsletter@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "updates@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "team@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "admin@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "sales@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "billing@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "accounts@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "security@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "privacy@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "customercare@x.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "customerservice@x.com",
+            "action": "",
+            "folder": ""
+        }
+    ]
+}

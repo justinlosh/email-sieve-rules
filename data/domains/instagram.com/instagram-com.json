@@ -1,0 +1,74 @@
+{
+    "name": "Domain Email List",
+    "category": "Social Media",
+    "domain": "instagram.com",
+    "friendly_name": "Instagram",
+    "email_criteria": [
+        {
+            "field": "from",
+            "contains": "no-reply@mail.instagram.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "security@mail.instagram.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "support@mail.instagram.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "info@mail.instagram.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "noreply@mail.instagram.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "instagram@mail.instagram.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "help@instagram.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "support@instagram.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "info@instagram.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "no-reply@instagram.com",
+            "action": "",
+            "folder": ""
+        },
+        {
+            "field": "from",
+            "contains": "noreply@instagram.com",
+            "action": "",
+            "folder": ""
+        }
+    ]
+}

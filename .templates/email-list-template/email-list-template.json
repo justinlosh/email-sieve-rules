@@ -1,0 +1,14 @@
+{
+    "name": "",
+    "category": "",
+    "domain": "",
+    "friendly_name": "",
+    "email_criteria": [
+        {
+            "field": "",
+            "contains": "",
+            "action": "",
+            "folder": ""
+        }
+    ]
+}
