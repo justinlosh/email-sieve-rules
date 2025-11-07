@@ -1,0 +1,904 @@
+{
+  "facebook.com": {
+    "facebook-com.json": {
+      "name": "Domain Email List",
+      "category": "Social Media",
+      "domain": "facebook.com",
+      "friendly_name": "Facebook",
+      "email_criteria": [
+        {
+          "field": "from",
+          "contains": "notification@facebookmail.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "info@facebookmail.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "support@facebookmail.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "security@facebookmail.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "noreply@facebookmail.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "update@facebookmail.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "invite@facebookmail.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "registration@facebookmail.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "confirm@facebookmail.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "help@facebookmail.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "service@facebookmail.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "business@facebookmail.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "advertise-noreply@facebookmail.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "ads-support@facebookmail.com",
+          "action": "",
+          "folder": ""
+        }
+      ]
+    },
+    "domain-list.csv": [
+      "domain",
+      "facebook.com",
+      "fb.com",
+      "facebookmail.com",
+      "messenger.com",
+      "fbsbx.com",
+      "m.facebook.com",
+      "web.facebook.com",
+      "business.facebook.com",
+      "developers.facebook.com",
+      "fb.me",
+      "fbcdn.net",
+      "fb.watch"
+    ],
+    "email-address-list.csv": [
+      "email",
+      "notification@facebookmail.com",
+      "info@facebookmail.com",
+      "support@facebookmail.com",
+      "security@facebookmail.com",
+      "noreply@facebookmail.com",
+      "update@facebookmail.com",
+      "invite@facebookmail.com",
+      "registration@facebookmail.com",
+      "confirm@facebookmail.com",
+      "help@facebookmail.com",
+      "service@facebookmail.com",
+      "business@facebookmail.com",
+      "advertise-noreply@facebookmail.com",
+      "ads-support@facebookmail.com"
+    ]
+  },
+  "instagram.com": {
+    "instagram-com.json": {
+      "name": "Domain Email List",
+      "category": "Social Media",
+      "domain": "instagram.com",
+      "friendly_name": "Instagram",
+      "email_criteria": [
+        {
+          "field": "from",
+          "contains": "no-reply@mail.instagram.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "security@mail.instagram.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "support@mail.instagram.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "info@mail.instagram.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "noreply@mail.instagram.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "instagram@mail.instagram.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "help@instagram.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "support@instagram.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "info@instagram.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "no-reply@instagram.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "noreply@instagram.com",
+          "action": "",
+          "folder": ""
+        }
+      ]
+    },
+    "domain-list.csv": [
+      "domain",
+      "instagram.com",
+      "instagr.am",
+      "ig.me",
+      "mail.instagram.com"
+    ],
+    "email-address-list.csv": [
+      "email",
+      "no-reply@mail.instagram.com",
+      "security@mail.instagram.com",
+      "support@mail.instagram.com",
+      "info@mail.instagram.com",
+      "noreply@mail.instagram.com",
+      "instagram@mail.instagram.com",
+      "help@instagram.com",
+      "support@instagram.com",
+      "info@instagram.com",
+      "no-reply@instagram.com",
+      "noreply@instagram.com"
+    ]
+  },
+  "x.com": {
+    "domain-list.csv": [
+      "domain",
+      "x.com",
+      "twitter.com",
+      "t.co",
+      "twimg.com",
+      "tweetdeck.com",
+      "periscope.tv",
+      "vine.co"
+    ],
+    "x-com.json": {
+      "name": "Domain Email List",
+      "category": "Social Media",
+      "domain": "x.com",
+      "friendly_name": "X (Twitter)",
+      "email_criteria": [
+        {
+          "field": "from",
+          "contains": "support@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "info@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "contact@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "help@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "service@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "care@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "feedback@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "no-reply@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "noreply@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "newsletter@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "updates@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "team@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "admin@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "sales@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "billing@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "accounts@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "security@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "privacy@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "customercare@x.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "customerservice@x.com",
+          "action": "",
+          "folder": ""
+        }
+      ]
+    },
+    "email-address-list.csv": [
+      "email",
+      "support@x.com",
+      "info@x.com",
+      "contact@x.com",
+      "help@x.com",
+      "service@x.com",
+      "care@x.com",
+      "feedback@x.com",
+      "no-reply@x.com",
+      "noreply@x.com",
+      "newsletter@x.com",
+      "updates@x.com",
+      "team@x.com",
+      "admin@x.com",
+      "sales@x.com",
+      "billing@x.com",
+      "accounts@x.com",
+      "security@x.com",
+      "privacy@x.com",
+      "customercare@x.com",
+      "customerservice@x.com"
+    ]
+  },
+  "linkedin.com": {
+    "domain-list.csv": [
+      "domain",
+      "linkedin.com",
+      "licdn.com",
+      "lnkd.in",
+      "linkedinmail.com",
+      "email.linkedin.com"
+    ],
+    "linkedin-com.json": {
+      "name": "Domain Email List",
+      "category": "Social Media",
+      "domain": "linkedin.com",
+      "friendly_name": "LinkedIn",
+      "email_criteria": [
+        {
+          "field": "from",
+          "contains": "marketing@linkedin.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "info@linkedin.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "news@linkedin.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "noreply@linkedin.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "community@linkedin.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "sales-solutions@linkedin.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "learning@linkedin.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "jobs-noreply@linkedin.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "business@linkedin.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "outreach@linkedin.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "events@linkedin.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "offers@linkedin.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "hit-reply@linkedin.com",
+          "action": "",
+          "folder": ""
+        }
+      ]
+    },
+    "email-address-list.csv": [
+      "email",
+      "marketing@linkedin.com",
+      "info@linkedin.com",
+      "news@linkedin.com",
+      "noreply@linkedin.com",
+      "community@linkedin.com",
+      "sales-solutions@linkedin.com",
+      "learning@linkedin.com",
+      "jobs-noreply@linkedin.com",
+      "business@linkedin.com",
+      "outreach@linkedin.com",
+      "events@linkedin.com",
+      "offers@linkedin.com",
+      "hit-reply@linkedin.com"
+    ]
+  },
+  "tiktok.com": {
+    "domain-list.csv": [
+      "domain",
+      "tiktok.com",
+      "tiktokmail.com",
+      "tiktokv.com",
+      "tiktokcdn.com",
+      "tiktokapi.com",
+      "tiktokd.com",
+      "tiktokbusiness.com",
+      "tiktokforbusiness.com",
+      "tiktokshop.com",
+      "tiktokads.com",
+      "tiktok.com.cn",
+      "tiktok.net",
+      "tiktok.org"
+    ],
+    "tiktok-com.json": {
+      "name": "Domain Email List",
+      "category": "Social Media",
+      "domain": "tiktok.com",
+      "friendly_name": "TikTok",
+      "email_criteria": [
+        {
+          "field": "from",
+          "contains": "no-reply@tiktok.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "support@tiktok.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "info@tiktok.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "notification@tiktok.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "service@tiktok.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "security@tiktok.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "help@tiktok.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "feedback@tiktok.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "noreply@tiktok.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "team@tiktok.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "privacy@tiktok.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "account@tiktok.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "verify@tiktok.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "update@tiktok.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "contact@tiktok.com",
+          "action": "",
+          "folder": ""
+        }
+      ]
+    },
+    "email-address-list.csv": [
+      "email",
+      "no-reply@tiktok.com",
+      "support@tiktok.com",
+      "info@tiktok.com",
+      "notification@tiktok.com",
+      "service@tiktok.com",
+      "security@tiktok.com",
+      "help@tiktok.com",
+      "feedback@tiktok.com",
+      "noreply@tiktok.com",
+      "team@tiktok.com",
+      "privacy@tiktok.com",
+      "account@tiktok.com",
+      "verify@tiktok.com",
+      "update@tiktok.com",
+      "contact@tiktok.com"
+    ]
+  },
+  "youtube.com": {
+    "youtube-com.json": {
+      "name": "Domain Email List",
+      "category": "Social Media",
+      "domain": "youtube.com",
+      "friendly_name": "YouTube",
+      "email_criteria": [
+        {
+          "field": "from",
+          "contains": "noreply@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "no-reply@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "support@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "help@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "service@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "team@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "notifications@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "notification@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "accounts@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "account-recovery@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "security@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "privacy@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "abuse@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "copyright@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "legal@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "press@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "ads@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "adwords-noreply@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "creators@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "partners@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "newsletter@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "updates@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "billing@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "sales@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "info@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "contact@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "feedback@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "community@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "customercare@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "customerservice@youtube.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "noreply@youtube-noc.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "noreply@youtube-noreply.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "noreply@google.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "no-reply@google.com",
+          "action": "",
+          "folder": ""
+        },
+        {
+          "field": "from",
+          "contains": "support@google.com",
+          "action": "",
+          "folder": ""
+        }
+      ]
+    },
+    "domain-list.csv": [
+      "domain",
+      "youtube.com",
+      "youtu.be",
+      "googlevideo.com",
+      "ytimg.com",
+      "youtube-nocookie.com",
+      "youtubeeducation.com",
+      "youtube.googleapis.com",
+      "youtubei.googleapis.com",
+      "youtubeads.googleapis.com"
+    ],
+    "email-address-list.csv": [
+      "email",
+      "noreply@youtube.com",
+      "no-reply@youtube.com",
+      "support@youtube.com",
+      "help@youtube.com",
+      "service@youtube.com",
+      "team@youtube.com",
+      "notifications@youtube.com",
+      "notification@youtube.com",
+      "accounts@youtube.com",
+      "account-recovery@youtube.com",
+      "security@youtube.com",
+      "privacy@youtube.com",
+      "abuse@youtube.com",
+      "copyright@youtube.com",
+      "legal@youtube.com",
+      "press@youtube.com",
+      "ads@youtube.com",
+      "adwords-noreply@youtube.com",
+      "creators@youtube.com",
+      "partners@youtube.com",
+      "newsletter@youtube.com",
+      "updates@youtube.com",
+      "billing@youtube.com",
+      "sales@youtube.com",
+      "info@youtube.com",
+      "contact@youtube.com",
+      "feedback@youtube.com",
+      "community@youtube.com",
+      "customercare@youtube.com",
+      "customerservice@youtube.com",
+      "noreply@youtube-noc.com",
+      "noreply@youtube-noreply.com",
+      "noreply@google.com",
+      "no-reply@google.com",
+      "support@google.com"
+    ]
+  }
+}
